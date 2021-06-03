@@ -67,7 +67,7 @@ font-weight: 600;
 }
 
 .search {
-background-image: url(img/search.png);
+background-image: url(../img/search.png);
 background-position: 0px center;
 background-repeat:no-repeat;
 -webkit-background-size:15px 15px;
@@ -93,7 +93,7 @@ margin-left: 5px;
 }
 
 .header {
-background-image: url(img/10.jpg);
+background-image: url(../img/10.jpg);
 background-repeat:no-repeat;
 height: calc(100% -100%);
 -webkit-background-size:cover;
